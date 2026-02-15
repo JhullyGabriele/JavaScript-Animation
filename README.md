@@ -1,4 +1,4 @@
-# JavaScript Canvas Animation
+# JavaScript Animation
 
 This project demonstrates **animation in JavaScript** using the HTML `<canvas>` element. It features three animated shapes that move and collide with each other:
 
